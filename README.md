@@ -1,5 +1,7 @@
 # react-native-android-wake-screen
 
+Fork of https://github.com/witPranav/react-native-android-wake-screen that works with gradle 7.
+
 ## Getting started
 
 `$ npm install react-native-android-wake-screen --save`
