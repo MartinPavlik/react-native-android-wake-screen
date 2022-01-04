@@ -4,11 +4,11 @@ Fork of https://github.com/witPranav/react-native-android-wake-screen that works
 
 ## Getting started
 
-`$ npm install react-native-android-wake-screen --save`
+`$ npm install @satankebab/react-native-android-wake-screen --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-android-wake-screen`
+`$ react-native link @satankebab/react-native-android-wake-screen`
 
 ## Usage
 This module helps turn the screen display on from within a headless function.
@@ -27,7 +27,7 @@ Add the following inside the project manifest (android/app/src/main/AndroidManif
 ```
 
 ```javascript
-import AndroidWakeScreen from 'react-native-android-wake-screen';
+import AndroidWakeScreen from '@satankebab/react-native-android-wake-screen';
 
 //inside your headless function
 const MyHeadlessFunction = async () => {
